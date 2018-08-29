@@ -1,0 +1,28 @@
+{
+    "allSkiDays":[
+        {
+            "resort": "Kirkwood",
+            "date": "2018-1-19",
+            "powder": true,
+            "backcountry": false
+        },
+        {
+            "resort": "Squaw Valley",
+            "date": "2018-1-22",
+            "powder": false,
+            "backcountry": false
+        },
+        {
+            "resort": "Mt Tallac",
+            "date": "2018-1-25",
+            "powder": false,
+            "backcountry": true
+        }
+    ],
+    "goal": 10,
+    "errors": [],
+    "resortNames": {
+        "fetching": false,
+        "suggestions": ["Squaw Valley", "Snowbird", "Stowe", "Steamboat"]
+    }
+}
