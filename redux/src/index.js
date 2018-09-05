@@ -22,6 +22,7 @@ store.subscribe(()=>console.log(JSON.stringify(store.getState())))
 //plus the store has middleware associated with it that will log consoleGroups 
 //for each action that is being dispatched
 
+//below are action creators called from dispatch
 store.dispatch(
     addDay("Heavenly", "2016-12-22")
 )
